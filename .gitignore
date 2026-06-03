@@ -1,0 +1,4 @@
+﻿venv/
+__pycache__/
+*.pyc
+detector_fatiga.db
